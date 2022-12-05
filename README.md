@@ -1,2 +1,2 @@
-# ids-ensemble
-An Ensemble Learning Model for IDS
+# intrusion-detection-system
+Use of Ensemble Learning for Intrusion Detection System
